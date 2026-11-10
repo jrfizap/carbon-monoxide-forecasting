@@ -1,0 +1,7 @@
+# Written for Google Colab, which also provides google.colab (Drive mount and downloads).
+numpy
+pandas
+openpyxl
+scikit-learn
+tensorflow
+matplotlib
